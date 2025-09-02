@@ -10,6 +10,10 @@ oracle-to-postgres-migration-scripts/
 │   ├── crt_seq_billing.sql
 │   ├── crt_FN_billing.sql
 │   └── crt_view_billing.sql
+├── Inserting_data/             # Inserting data
+│   └── translation_billing.sql
+│   └── insertion_billing.sql
+└── test_cases/   
 ├── migration_notes/             # Documentation & tips
 │   └── conversion_tips.md
 └── test_cases/                  # Example queries & validation scripts
